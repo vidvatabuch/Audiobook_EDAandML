@@ -9,7 +9,7 @@ Further more, it aims to predict whether customer would buy from the app or not 
 
 *  Data Visualization
 *  Feature Scaling
-# Machine learning
+#### Machine learning
   * Outling the data
   * Choosing the optimizer and loss function
   * Training the model
