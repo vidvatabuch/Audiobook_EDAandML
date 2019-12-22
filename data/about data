@@ -1,0 +1,5 @@
+The csv file contains comma separated information regarding the purchase data the customers of an Audio book app.
+The file contains 12 columns and 14084 records data like spanning, book minutes, price, compltion status, Rating number of support requests.
+
+There are 3 .npz files.
+Those are the train, validation and the test datasets separated and converted to tensor supported file format to work on the classification problem.
