@@ -35,7 +35,7 @@ Showcases the categorical data in various charts. Answers the questions such as 
 Audiobook Tensorflow
 Provides the Machine Learning solution to the classification problem of whether the customer will buy from the app or not by studying and performing operations on the available dataset
 
-This particular file has to be run in kernel that has tensorflow installed.(Different virtual environmenet prefered)
+This particular file has to be run in kernel that has tensorflow installed.(Different virtual environment prefered)
 
 ## Needs of this project
 
